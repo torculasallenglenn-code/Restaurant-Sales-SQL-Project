@@ -1,0 +1,33 @@
+category,item_name,percentage
+American,Cheeseburger,5.11
+American,Hamburger,5.06
+American,French Fries,2.51
+American,Mac & Cheese,2.04
+American,Veggie Burger,1.57
+American,Hot Dog,1.45
+Asian,Korean Beef Bowl,6.63
+Asian,Tofu Pad Thai,5.12
+Asian,Orange Chicken,4.73
+Asian,Pork Ramen,4.06
+Asian,Salmon Roll,3.04
+Asian,California Roll,2.66
+Asian,Edamame,1.95
+Asian,Potstickers,1.16
+Italian,Spaghetti & Meatballs,5.3
+Italian,Eggplant Parmesan,4.47
+Italian,Chicken Parmesan,4.1
+Italian,Mushroom Ravioli,3.49
+Italian,Spaghetti,3.34
+Italian,Meat Lasagna,3.08
+Italian,Shrimp Scampi,2.99
+Italian,Fettuccine Alfredo,2.27
+Italian,Cheese Lasagna,2.02
+Mexican,Steak Torta,4.28
+Mexican,Chicken Burrito,3.7
+Mexican,Steak Burrito,3.32
+Mexican,Chicken Torta,2.84
+Mexican,Chips & Salsa,2.03
+Mexican,Steak Tacos,1.87
+Mexican,Cheese Quesadillas,1.54
+Mexican,Chips & Guacamole,1.34
+Mexican,Chicken Tacos,0.92
